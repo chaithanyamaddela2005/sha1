@@ -1,4 +1,4 @@
-# sha1
+# sha1.
 <!DOCTYPE html>
 <html>
 <head>
